@@ -1,0 +1,52 @@
+@charset "UTF-8";
+
+:root {
+    
+
+
+
+
+
+}
+
+* {
+    margin: 0;
+    
+}
+
+header {
+    height: 150px;
+    background-color: black;
+    text-align: center;
+}
+
+header h1  {
+    color: white;
+    padding-top: 40px;
+
+}
+
+header p {
+    color: white;
+    padding-top: 10px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+footer {
+    background-color: black;
+    padding: 10px;
+    text-align: center;
+}
+
+footer p {
+    color: white;
+}
+
